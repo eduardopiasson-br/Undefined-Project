@@ -1,0 +1,23 @@
+{
+  "name": "undefined-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "init:sass": "node-sass sass/main.scss node_sass.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eduardopiasson-br/Undefined-Project.git"
+  },
+  "author": "Eduardo Piasson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eduardopiasson-br/Undefined-Project/issues"
+  },
+  "homepage": "https://github.com/eduardopiasson-br/Undefined-Project#readme",
+  "dependencies": {
+    "node-sass": "^4.13.1"
+  }
+}
