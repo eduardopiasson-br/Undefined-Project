@@ -1,0 +1,11 @@
+.nav-link {
+  color: #606060 !important;
+  border-left: 2px solid #606060; }
+  .nav-link:hover {
+    color: #ffffff !important;
+    background-color: #606060 !important;
+    transition: 0.5s; }
+
+.navbar-custom .nav-item {
+  font-family: Roboto;
+  font-size: 1.5vw; }
